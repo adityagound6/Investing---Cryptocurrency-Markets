@@ -1,0 +1,12 @@
+D:\New folder\CryptoNews-master\CryptoNews.Domain\bin\Debug\net6.0\CryptoNews.Domain.deps.json
+D:\New folder\CryptoNews-master\CryptoNews.Domain\bin\Debug\net6.0\CryptoNews.Domain.dll
+D:\New folder\CryptoNews-master\CryptoNews.Domain\bin\Debug\net6.0\CryptoNews.Domain.pdb
+D:\New folder\CryptoNews-master\CryptoNews.Domain\obj\Debug\net6.0\CryptoNews.Domain.csproj.AssemblyReference.cache
+D:\New folder\CryptoNews-master\CryptoNews.Domain\obj\Debug\net6.0\CryptoNews.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\CryptoNews-master\CryptoNews.Domain\obj\Debug\net6.0\CryptoNews.Domain.AssemblyInfoInputs.cache
+D:\New folder\CryptoNews-master\CryptoNews.Domain\obj\Debug\net6.0\CryptoNews.Domain.AssemblyInfo.cs
+D:\New folder\CryptoNews-master\CryptoNews.Domain\obj\Debug\net6.0\CryptoNews.Domain.csproj.CoreCompileInputs.cache
+D:\New folder\CryptoNews-master\CryptoNews.Domain\obj\Debug\net6.0\CryptoNews.Domain.dll
+D:\New folder\CryptoNews-master\CryptoNews.Domain\obj\Debug\net6.0\refint\CryptoNews.Domain.dll
+D:\New folder\CryptoNews-master\CryptoNews.Domain\obj\Debug\net6.0\CryptoNews.Domain.pdb
+D:\New folder\CryptoNews-master\CryptoNews.Domain\obj\Debug\net6.0\ref\CryptoNews.Domain.dll

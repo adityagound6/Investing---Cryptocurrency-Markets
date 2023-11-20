@@ -1,0 +1,15 @@
+D:\New folder\CryptoNews-master\CryptoNews.Services\bin\Debug\net6.0\CryptoNews.Services.deps.json
+D:\New folder\CryptoNews-master\CryptoNews.Services\bin\Debug\net6.0\CryptoNews.Services.dll
+D:\New folder\CryptoNews-master\CryptoNews.Services\bin\Debug\net6.0\CryptoNews.Services.pdb
+D:\New folder\CryptoNews-master\CryptoNews.Services\bin\Debug\net6.0\CryptoNews.Domain.dll
+D:\New folder\CryptoNews-master\CryptoNews.Services\bin\Debug\net6.0\CryptoNews.Domain.pdb
+D:\New folder\CryptoNews-master\CryptoNews.Services\obj\Debug\net6.0\CryptoNews.Services.csproj.AssemblyReference.cache
+D:\New folder\CryptoNews-master\CryptoNews.Services\obj\Debug\net6.0\CryptoNews.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\CryptoNews-master\CryptoNews.Services\obj\Debug\net6.0\CryptoNews.Services.AssemblyInfoInputs.cache
+D:\New folder\CryptoNews-master\CryptoNews.Services\obj\Debug\net6.0\CryptoNews.Services.AssemblyInfo.cs
+D:\New folder\CryptoNews-master\CryptoNews.Services\obj\Debug\net6.0\CryptoNews.Services.csproj.CoreCompileInputs.cache
+D:\New folder\CryptoNews-master\CryptoNews.Services\obj\Debug\net6.0\CryptoNews.Services.csproj.CopyComplete
+D:\New folder\CryptoNews-master\CryptoNews.Services\obj\Debug\net6.0\CryptoNews.Services.dll
+D:\New folder\CryptoNews-master\CryptoNews.Services\obj\Debug\net6.0\refint\CryptoNews.Services.dll
+D:\New folder\CryptoNews-master\CryptoNews.Services\obj\Debug\net6.0\CryptoNews.Services.pdb
+D:\New folder\CryptoNews-master\CryptoNews.Services\obj\Debug\net6.0\ref\CryptoNews.Services.dll

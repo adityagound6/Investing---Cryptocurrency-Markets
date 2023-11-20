@@ -1,0 +1,53 @@
+﻿@page "/"
+@using CryptoNews.Services.Interfaces
+@using CryptoNews.Domain.Model
+@inject INewsService NewsService
+
+<PageTitle>Demo</PageTitle>
+<h1>Demo</h1>
+<br/>
+<div>
+    @if(News == null)
+    {
+        <p>Loading news...</p>
+    }
+    else
+    {
+        <div class="row">
+            @foreach(var item in News)
+            {
+                <div class="col-4">
+                    <div class="card w-100">
+                        <img src="@item.ImageUrl" />
+                        <div class="card-body ">
+                            <h5 class="card-title">@item.Headline</h5>
+                            <p class="card-text">@item.Body</p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>
+
+@if(!string.IsNullOrEmpty(Error))
+{
+    <p>@Error</p>
+}
+
+@code{
+    public List<NewsItem> News { get; set; }
+    public string Error { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            News = await NewsService.GetNews();
+        }
+        catch(Exception e)
+        {
+            Error = e.Message;
+        }
+    }
+}
